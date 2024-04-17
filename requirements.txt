@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+jupytext
+nptyping
+numpy
+pandas
+torch
+transformers
+datasets
